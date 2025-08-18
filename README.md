@@ -1,1 +1,1 @@
-# real-estate-data-analysis-project
+# SESAC AI 기반 데이터 분석가 양성 과정
